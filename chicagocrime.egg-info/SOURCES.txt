@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+chicagocrime/__init__.py
+chicagocrime.egg-info/PKG-INFO
+chicagocrime.egg-info/SOURCES.txt
+chicagocrime.egg-info/dependency_links.txt
+chicagocrime.egg-info/requires.txt
+chicagocrime.egg-info/top_level.txt
