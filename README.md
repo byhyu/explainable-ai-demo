@@ -1,51 +1,25 @@
-Predictive Modeling for Chicago Crime Dataset (*Quantiply Data Science Challenge*)
+Predictive Modeling with Demo of Explainable AI using Chicago Crime Dataset
 ==============================
 
 ## Overview
 
-Here is my （Hong Yu @byhongyu） take on the Quantiply data science challenge problem: predictive modeling for Chicago crime dataset. The original problem statement from Quantiply is attached below:
+Here is my （ @byhyu） take on the Quantiply data science challenge problem: predictive modeling for Chicago crime dataset. The original problem statement from Quantiply is attached below:
 
-> At Quantiply, we develop cutting edge models to solve complex problems. Our customers, financial institutions, are conservative. They are used to the rule based systems (https://www.casewareanalytics.com/blog/rules-based-vs-advanced-analytics-%E2%80%93-do-you-have-choose), which is easy to understand even though these systems yield high false positive rates. In addition, the end users may not have enough machine learning/AI background to comprehend the explanations that are accessible to ML practitioners. One of the major differentiators of Quantiply is our explainable AI (XAI) platform. We developed an XAI framework to help explain the decision making process of complex models like neural networks.
->
-> We would like to introduce the challenge to you too. We want you to live the life of a Data Scientist at Quantiply. On a daily basis, we tackle challenging problems, from building state-of-the-art unsupervised generative models, to explaining the how and the why of the decision-making process of the models.
->
-> Here are some XAI frameworks for your reference:
->
-> . https://arxiv.org/pdf/1602.04938v1.pdf
-> . http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
-> . https://homes.cs.washington.edu/~marcotcr/aaai18.pdf
-> . https://github.com/datascienceinc/Skater
->
-> NOTE: Note, we are not satisfied with any of the methods above. We of course do not expect you to develop a new method over such a short time.
->
-> ### Our expectation
+Convervative industries may take different approaches for anomaly detection and predictions from research community.  They are used to the rule based systems (https://www.casewareanalytics.com/blog/rules-based-vs-advanced-analytics-%E2%80%93-do-you-have-choose), which is easy to understand even though these systems yield high false positive rates. In addition, the end users may not have enough machine learning/AI background to comprehend the explanations that are accessible to ML practitioners. One of the major differentiators  is our explainable AI (XAI). We developed an XAI framework to help explain the decision making process of complex models like neural networks.
 
-> This challenge is very open ended. What we would you like to demonstrate are the following:
->
-> . Research what XAI is.
-> . Show how you approach this problem, let us know your thoughts.
-> . Build a classification model on the provided dataset.
-> . Provide explanations to your predictions.
->
-> ### Deliverables
->
-> - Submit a document that elaborates your thoughts on these methods, such as the basic concepts, advantages, drawbacks, etc.
->
-> - Use the classification model as an opportunity to demonstrate your data science skills.
->
-> - *Also, please let us know what you would like to do if you were given more time.*
->
-> - You can use any programming language of your choice.
->
-> - You can present your findings in any format as you deem clear.
->
-> - Instructions to run your scripts.
->
->   ### Github repo
->
->   https://github.com/quantiply-labs/dslab-HongYu
+On a daily basis, we tackle challenging problems, from building state-of-the-art unsupervised generative models, to explaining the how and the why of the decision-making process of the models.
 
-Project Organization
+## XAI Frameworks
+ Here are some XAI frameworks:
+
+ . https://arxiv.org/pdf/1602.04938v1.pdf
+ . http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
+. https://homes.cs.washington.edu/~marcotcr/aaai18.pdf
+ . https://github.com/datascienceinc/Skater
+
+In this prject, I will demonstrate the fundamental ideas of these frameworks using the Chicago Crime dataset.
+
+## Project Organization
 ------------
 
     ├── LICENSE
